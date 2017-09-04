@@ -1,1 +1,2 @@
-# Dijkstra-s-Algorithm
+# Shortest-Path
+Algorithm: Dijkstra's Algorithm
